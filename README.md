@@ -1,9 +1,11 @@
 # Fencing-Scoring-Box
 
 Introduction:
+
 In the dynamic world of fencing, precision, speed, and accuracy are paramount. The Fencing Scoring Box project aims to revolutionize the sport by introducing a cutting-edge electronic scoring system. Designed to enhance fairness, transparency, and efficiency in scoring, this innovative technology promises to redefine the way fencing matches are conducted.
 
 Description:
+
 The Fencing Scoring Box is a sophisticated electronic device equipped with state-of-the-art sensors and algorithms meticulously crafted to detect and register fencing actions with unparalleled accuracy. It comprises a central processing unit housed within a sleek, durable casing, ensuring reliability even in the most intense competitive environments.
 
 Key Features:
